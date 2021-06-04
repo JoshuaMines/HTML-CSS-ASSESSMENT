@@ -1,0 +1,9 @@
+**How does the internet work? What happens when you click on a link? **
+
+In it's simplest form the internet is a collection of thousands of computers connected together sending data back and forth.  To facilitate
+this like computers are connected via a router creating their own network.  In order to connect all these networks together ISP's (internet 
+service providers) use our phone lines to connect multiple networks together, thus giving us the internet.
+
+When you click on a link or a website your computer takes that URL and finds the exact IP address of that site in the DNS.  The browser then 
+opens a transmission control protocol and request that information.  The information is then sent back to your computer and properly rendered
+on your screen!

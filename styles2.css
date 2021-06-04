@@ -1,0 +1,24 @@
+.colors {
+    background-color: yellow;
+	width: 20pt;
+	height: 20pt;
+    padding: 30pt;
+    display: inline-block
+} 
+
+.rituals { 
+    background-color: yellow;
+    width: 20pt;
+    height: 20pt;
+    padding: 30pt;
+    display:inline-block;
+}
+
+.places {
+    background-color: yellow;
+    width: 20pt;
+    height: 20pt;
+    padding: 30pt;
+    display: inline-block;
+} 
+
